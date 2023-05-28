@@ -45,7 +45,7 @@ fn main(){
          
         println!("\nThere is exactly on real root");
 
-        println!("\nThey are {} {}",x1,x2);
+        println!("\nThey are {} {}",x1,x2);  
     }
     else if d<=0.0
     {
