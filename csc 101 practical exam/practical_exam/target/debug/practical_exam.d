@@ -1,1 +1,1 @@
-C:\Users\ciel\OneDrive\Documents\i.ikwukaCSC101\csc\ prac\ exam\practical_exam\target\debug\practical_exam.exe: C:\Users\ciel\OneDrive\Documents\i.ikwukaCSC101\csc\ prac\ exam\practical_exam\src\main.rs
+C:\Users\work\ or\ school\ acc\Documents\workspace\i.ikwukaCSC101\csc\ 101\ practical\ exam\practical_exam\target\debug\practical_exam.exe: C:\Users\work\ or\ school\ acc\Documents\workspace\i.ikwukaCSC101\csc\ 101\ practical\ exam\practical_exam\src\main.rs
