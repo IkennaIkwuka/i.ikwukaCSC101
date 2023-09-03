@@ -1,0 +1,1 @@
+C:\Users\work\ or\ school\ acc\Documents\workspace\i.ikwukaCSC101\week-3\practice_2\target\debug\practice_2.exe: C:\Users\work\ or\ school\ acc\Documents\workspace\i.ikwukaCSC101\week-3\practice_2\src\main.rs
